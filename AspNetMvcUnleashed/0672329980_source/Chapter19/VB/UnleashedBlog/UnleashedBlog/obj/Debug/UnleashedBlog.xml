@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UnleashedBlog
+</name>
+</assembly>
+<members>
+<member name="M:UnleashedBlog.BlogDBEntities.#ctor">
+	<summary>
+Initializes a new BlogDBEntities object using the connection string found in the 'BlogDBEntities' section of the application configuration file.
+</summary>
+</member><member name="M:UnleashedBlog.BlogDBEntities.#ctor(System.String)">
+	<summary>
+Initialize a new BlogDBEntities object.
+</summary>
+</member><member name="M:UnleashedBlog.BlogDBEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+Initialize a new BlogDBEntities object.
+</summary>
+</member><member name="P:UnleashedBlog.BlogDBEntities.BlogEntryEntitySet">
+	<summary>
+There are no comments for BlogEntryEntitySet in the schema.
+</summary>
+</member><member name="M:UnleashedBlog.BlogDBEntities.AddToBlogEntryEntitySet(UnleashedBlog.BlogEntryEntity)">
+	<summary>
+There are no comments for BlogEntryEntitySet in the schema.
+</summary>
+</member><member name="T:UnleashedBlog.BlogDBEntities">
+	<summary>
+There are no comments for BlogDBEntities in the schema.
+</summary>
+</member><member name="M:UnleashedBlog.BlogEntryEntity.CreateBlogEntryEntity(System.Int32,System.String,System.String,System.DateTime,System.String,System.String)">
+	<summary>
+Create a new BlogEntryEntity object.
+</summary>
+	<param name="id">Initial value of Id.</param>
+	<param name="name">Initial value of Name.</param>
+	<param name="author">Initial value of Author.</param>
+	<param name="datePublished">Initial value of DatePublished.</param>
+	<param name="title">Initial value of Title.</param>
+	<param name="text">Initial value of Text.</param>
+</member><member name="P:UnleashedBlog.BlogEntryEntity.Id">
+	<summary>
+There are no comments for Property Id in the schema.
+</summary>
+</member><member name="P:UnleashedBlog.BlogEntryEntity.Name">
+	<summary>
+There are no comments for Property Name in the schema.
+</summary>
+</member><member name="P:UnleashedBlog.BlogEntryEntity.Author">
+	<summary>
+There are no comments for Property Author in the schema.
+</summary>
+</member><member name="P:UnleashedBlog.BlogEntryEntity.DatePublished">
+	<summary>
+There are no comments for Property DatePublished in the schema.
+</summary>
+</member><member name="P:UnleashedBlog.BlogEntryEntity.DateModified">
+	<summary>
+There are no comments for Property DateModified in the schema.
+</summary>
+</member><member name="P:UnleashedBlog.BlogEntryEntity.Title">
+	<summary>
+There are no comments for Property Title in the schema.
+</summary>
+</member><member name="P:UnleashedBlog.BlogEntryEntity.Description">
+	<summary>
+There are no comments for Property Description in the schema.
+</summary>
+</member><member name="P:UnleashedBlog.BlogEntryEntity.Text">
+	<summary>
+There are no comments for Property Text in the schema.
+</summary>
+</member><member name="T:UnleashedBlog.BlogEntryEntity">
+	<summary>
+There are no comments for UnleashedBlog.Models.EntityFramework.BlogEntryEntity in the schema.
+</summary>
+	<KeyProperties>
+Id
+</KeyProperties>
+</member>
+</members>
+</doc>

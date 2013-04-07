@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ToyStore
+</name>
+</assembly>
+<members>
+<member name="M:ToyStore.ToyStoreDBEntities.#ctor">
+	<summary>
+Initializes a new ToyStoreDBEntities object using the connection string found in the 'ToyStoreDBEntities' section of the application configuration file.
+</summary>
+</member><member name="M:ToyStore.ToyStoreDBEntities.#ctor(System.String)">
+	<summary>
+Initialize a new ToyStoreDBEntities object.
+</summary>
+</member><member name="M:ToyStore.ToyStoreDBEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+Initialize a new ToyStoreDBEntities object.
+</summary>
+</member><member name="P:ToyStore.ToyStoreDBEntities.ProductSet">
+	<summary>
+There are no comments for ProductSet in the schema.
+</summary>
+</member><member name="M:ToyStore.ToyStoreDBEntities.AddToProductSet(ToyStore.Product)">
+	<summary>
+There are no comments for ProductSet in the schema.
+</summary>
+</member><member name="T:ToyStore.ToyStoreDBEntities">
+	<summary>
+There are no comments for ToyStoreDBEntities in the schema.
+</summary>
+</member><member name="M:ToyStore.Product.CreateProduct(System.Int32,System.String,System.String,System.Decimal)">
+	<summary>
+Create a new Product object.
+</summary>
+	<param name="id">Initial value of Id.</param>
+	<param name="name">Initial value of Name.</param>
+	<param name="description">Initial value of Description.</param>
+	<param name="price">Initial value of Price.</param>
+</member><member name="P:ToyStore.Product.Id">
+	<summary>
+There are no comments for Property Id in the schema.
+</summary>
+</member><member name="P:ToyStore.Product.Name">
+	<summary>
+There are no comments for Property Name in the schema.
+</summary>
+</member><member name="P:ToyStore.Product.Description">
+	<summary>
+There are no comments for Property Description in the schema.
+</summary>
+</member><member name="P:ToyStore.Product.Price">
+	<summary>
+There are no comments for Property Price in the schema.
+</summary>
+</member><member name="T:ToyStore.Product">
+	<summary>
+There are no comments for Models.Product in the schema.
+</summary>
+	<KeyProperties>
+Id
+</KeyProperties>
+</member>
+</members>
+</doc>

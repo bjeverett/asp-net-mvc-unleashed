@@ -1,0 +1,9 @@
+C:\Users\swalther\Documents\Books\AspNetMvcUnleashed\Chapter02 - Building a Simple ASP.NET MVC Application\Code\VB\ToyStore\ToyStore\bin\ToyStore.dll
+C:\Users\swalther\Documents\Books\AspNetMvcUnleashed\Chapter02 - Building a Simple ASP.NET MVC Application\Code\VB\ToyStore\ToyStore\bin\ToyStore.pdb
+C:\Users\swalther\Documents\Books\AspNetMvcUnleashed\Chapter02 - Building a Simple ASP.NET MVC Application\Code\VB\ToyStore\ToyStore\bin\ToyStore.xml
+C:\Users\swalther\Documents\Books\AspNetMvcUnleashed\Chapter02 - Building a Simple ASP.NET MVC Application\Code\VB\ToyStore\ToyStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\swalther\Documents\Books\AspNetMvcUnleashed\Chapter02 - Building a Simple ASP.NET MVC Application\Code\VB\ToyStore\ToyStore\obj\Debug\ToyStore.Resources.resources
+C:\Users\swalther\Documents\Books\AspNetMvcUnleashed\Chapter02 - Building a Simple ASP.NET MVC Application\Code\VB\ToyStore\ToyStore\obj\Debug\ToyStore.vbproj.GenerateResource.Cache
+C:\Users\swalther\Documents\Books\AspNetMvcUnleashed\Chapter02 - Building a Simple ASP.NET MVC Application\Code\VB\ToyStore\ToyStore\obj\Debug\ToyStore.dll
+C:\Users\swalther\Documents\Books\AspNetMvcUnleashed\Chapter02 - Building a Simple ASP.NET MVC Application\Code\VB\ToyStore\ToyStore\obj\Debug\ToyStore.xml
+C:\Users\swalther\Documents\Books\AspNetMvcUnleashed\Chapter02 - Building a Simple ASP.NET MVC Application\Code\VB\ToyStore\ToyStore\obj\Debug\ToyStore.pdb
